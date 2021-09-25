@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x",
+    "s"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "s":
+    {
+      "item": "metalmod:burning_stick"
+    }
+  },
+  "result":
+  {
+    "item": "metalmod:burning_diamond_stick"
+  }
+}

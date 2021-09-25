@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "metalmod:block/seawood_log_top",
+    "side": "metalmod:block/seawood_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "elephant_shrew_death_cry": {
+    "category" : "blocks",
+    "subtitle": "metalmod.elephant_shrew_death_cry",
+    "sounds": ["metalmod:elephant_shrew_death_cry"]
+  }
+}

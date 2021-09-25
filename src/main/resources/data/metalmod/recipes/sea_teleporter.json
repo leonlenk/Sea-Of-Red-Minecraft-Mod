@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xix",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "metalmod:seawood_planks"
+    },
+    "i":
+    {
+      "item": "metalmod:gilded_scale"
+    }
+  },
+  "result":
+  {
+    "item": "metalmod:sea_teleporter"
+  }
+}

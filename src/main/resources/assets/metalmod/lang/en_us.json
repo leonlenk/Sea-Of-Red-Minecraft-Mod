@@ -1,0 +1,46 @@
+{
+  "item.metalmod.bismuth_ingot": "§6Bismuth Ingot",
+  "item.metalmod.scale_of_the_sea": "Scale of the Sea",
+  "item.metalmod.gilded_scale": "Gilded Scale",
+  "item.metalmod.salmon_sea_fruit": "§dPink Sea Fruit",
+  "item.metalmod.possum_spawn_egg": "Possum Spawn Egg",
+  "item.metalmod.elephant_shrew_spawn_egg": "Elephant Shrew Spawn Egg",
+  "item.metalmod.serpent_spawn_egg": "Sea Serpent Spawn Egg",
+
+
+  "item.metalmod.bismuth_shovel": "\u00A76Bismuth Shovel",
+  "item.metalmod.bismuth_hoe": "§6Bismuth Hoe",
+  "item.metalmod.bismuth_sword": "§6Bismuth Sword",
+  "item.metalmod.bismuth_axe": "§6Bismuth Axe",
+  "item.metalmod.bismuth_pickaxe": "§6Bismuth Pickaxe",
+  "item.metalmod.mosasaurus_sword": "\u00A7bBone and Blood Sword",
+  "item.metalmod.burning_stick": "§4Burning Stick",
+  "item.metalmod.burning_diamond_sword": "§4Burning Diamond Sword",
+
+  "item.metalmod.blood_bucket": "§4Ancient Blood (ew)",
+
+  "item.metalmod.sea_helmet": "\u00A73Ancient Helmet of the Sea",
+  "item.metalmod.sea_chestplate": "\u00A73Ancient Chestplate of the Sea",
+  "item.metalmod.sea_leggings": "\u00A73Ancient Leggings of the Sea",
+  "item.metalmod.sea_boots": "\u00A73Ancient Boots of the Sea",
+
+  "block.metalmod.seawood_log": "Seawood Log",
+  "block.metalmod.seawood_leaves": "Seawood Leaves",
+  "block.metalmod.seawood_sapling": "Seawood Sapling",
+  "block.metalmod.seawood_planks": "Seawood Planks",
+  "block.metalmod.sea_teleporter": "§1Sea Teleporter",
+  "block.metalmod.dead_grass": "Dead Grass Block",
+  "block.metalmod.bush_smoke": "§4Bush Smoke",
+  "block.metalmod.burning_bush": "§4Burning Bush",
+
+  "block.metalmod.bismuth_block": "§6Block of Bismuth",
+  "block.metalmod.bismuth_ore": "§6Bismuth Ore",
+
+  "itemGroup.metaltab": "Metal Tab",
+  "itemGroup.seatab": "Sea Tab",
+
+  "entity.metalmod.possum": "Possum",
+  "entity.metalmod.serpent": "Sea Serpent",
+  "entity.metalmod.mosasaurus": "Mosasaurus",
+  "entity.metalmod.elephant_shrew": "Elephant Shrew"
+}

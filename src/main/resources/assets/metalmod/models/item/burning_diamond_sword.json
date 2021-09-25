@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "metalmod:item/burning_diamond_sword"
+  }
+}

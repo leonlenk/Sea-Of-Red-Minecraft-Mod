@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "metalmod:block/seawood_sapling"
+  }
+}

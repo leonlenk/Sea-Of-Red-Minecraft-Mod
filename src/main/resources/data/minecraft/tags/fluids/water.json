@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "metalmod:blood_flowing",
+    "metalmod:blood_fluid"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "metalmod:endless_sea_dim",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        {
+          "height":1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height":55,
+          "block": "minecraft:stone"
+        },
+        {
+          "height": 7,
+          "block": "minecraft:dirt"
+        },
+        {
+          "height": 1,
+          "block": "metalmod:dead_grass"
+        }
+      ],
+      "biome": "metalmod:deadly_sea_biome",
+      "lakes": false,
+      "features": false,
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

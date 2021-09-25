@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    {"item":  "metalmod:bismuth_block"}
+  ],
+  "result":
+  {
+    "item": "metalmod:bismuth_ingot",
+    "count": 9
+  }
+}

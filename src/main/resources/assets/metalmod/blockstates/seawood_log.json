@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "metalmod:block/seawood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "metalmod:block/seawood_log"
+    },
+    "axis=z": {
+      "model": "metalmod:block/seawood_log_horizontal",
+      "x": 90
+    }
+  }
+}

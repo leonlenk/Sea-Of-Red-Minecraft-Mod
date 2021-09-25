@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    {"item":  "metalmod:seawood_log"}
+  ],
+  "result":
+  {
+    "item": "metalmod:seawood_planks",
+    "count": 4
+  }
+}
