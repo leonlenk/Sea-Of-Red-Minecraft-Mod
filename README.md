@@ -1,6 +1,6 @@
 # SeaOfRed
 
-### The mod
+### The Mod
 This mod adds a little bit of everything
 From a diamond sword that sets mobs on fire
 To a sea dimension with a powerful boss
