@@ -6,6 +6,9 @@ from a diamond sword that sets mobs on fire
 to a sea dimension with a powerful boss.
 Go explore!
 
+### Curse Forge Link
+https://www.curseforge.com/minecraft/mc-mods/sea-of-red
+
 ### Reccomendations
 USE JUST ENOUGH ITEMS!!!
 Also the mod may warn you about experimental settings just ignore this and click proceed it won't mess up the game
